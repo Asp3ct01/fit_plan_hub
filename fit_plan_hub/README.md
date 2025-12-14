@@ -1,16 +1,24 @@
 # fit_plan_hub
 
-A new Flutter project.
+A new Flutter project as per described in the Shared document.
 
-## Getting Started
+## Technology Stack
 
-This project is a starting point for a Flutter application.
+### Frontend
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter Web
+- Dart
+- HTTP package for API calls
+- setState for state management
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Backend
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- FastAPI
+- Python
+- JWT Authentication
+- Pydantic for validation
+- SQLAlchemy ORM
+
+### Database
+
+- MySQL
